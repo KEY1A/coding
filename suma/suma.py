@@ -1,3 +1,5 @@
+# Programa de ejemplo para el uso de Git
+
 import tkinter as tk
 from tkinter import simpledialog
 from tkinter import messagebox
